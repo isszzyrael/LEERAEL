@@ -1,3 +1,3 @@
 # New Js project
 
-console.log(My New file)
+console.log(My New file);
